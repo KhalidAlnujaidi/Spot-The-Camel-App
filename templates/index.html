@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Spot The Camel !</title>
+    <style>
+      .corner {
+        border-radius: 25px;
+        border: 5px solid #212aad;
+        padding: 0px;
+        width:60%;
+        height:auto;
+        text-align: center;
+      }
+
+      .video-container {
+        justify-content: center;
+        text-align: center;
+        height:100%;
+        /*border: 1px solid black;*/
+      }
+      
+    </style>
+  </head>
+  
+  <body background="static/desert.png" style="background-size: cover; background-repeat: no-repeat;">
+      <div class="container" >
+        <div class="row" style="text-align: center; width:100%;">
+          
+            <h1 style="text-align: center; display:inline-block;">Point at camel and ill detect it!</h1>
+          
+        </div>
+      </div>
+  
+      <div class="video-container" style="width: 95%;">
+          <img src="{{ url_for('video') }}" class="corner"></img>
+          <!--<img src="../static/pytorch.png" class="corner"></img>-->
+          <!--<img src="{{ url_for('video') }}" width="50%"/>-->
+      </div>
+      <div style="text-align: center;"><h6><a href="https://www.linkedin.com/in/khalid-alnujaidi-9909141a7/" style="text-align: center">By Khalid Alnujaidi</a></h6></div>
+    </body>
+</html>
