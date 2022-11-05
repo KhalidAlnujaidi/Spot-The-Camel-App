@@ -11,4 +11,4 @@ To run the app:
 - Pip install requirments.txt
 - run the command 'python app.py' 
 
-Next step is to convert model to TensorFlow JS and host model on IBM cload to host model on the web.
+Next step is to convert model to TensorFlow JS and host model on IBM cload to deploy model on the web.
