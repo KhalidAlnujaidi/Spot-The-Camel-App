@@ -13,3 +13,7 @@ To run the app:
 - run the command 'python app.py' 
 
 Next step is to convert model to TensorFlow JS and host model on IBM cload to deploy model on the web.
+
+
+## reference
+- https://github.com/ngzhili/Yolov5-Real-Time-Object-Detection
