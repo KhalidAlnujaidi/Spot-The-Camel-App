@@ -4,7 +4,7 @@ Live Detection of Camels using YOLOv5 through a web browser using Flask
 
 ![thumbnail](https://user-images.githubusercontent.com/93127443/200124680-aa3d3856-0e9e-44e1-bbfa-87bb9d9c807a.png)
 
-Publication insbired by this fun project: https://ijcionline.com/abstract/12123ijci11
+Paper: https://arxiv.org/abs/2301.09339
 
 Demo: https://youtu.be/upiufPR-Z-k
 
