@@ -8,6 +8,8 @@ Paper: https://arxiv.org/abs/2301.09339
 
 Demo: https://youtu.be/upiufPR-Z-k
 
+Dataset: https://www.kaggle.com/datasets/khalidalnujaidi/images-of-camels-annotated-for-object-detection
+
 To run the app:
 
 - Clone repository
